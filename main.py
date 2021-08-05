@@ -1,7 +1,4 @@
 # Write a program to print "Hello world!"
-from math import sqrt
-
-
 print('Hello world!')
 
 
